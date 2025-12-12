@@ -1,11 +1,11 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Violet317",
+		"description": "chen的个人博客，督促自己学习",
+		"username": "chen"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
+		"colorBrand": "#E80F39",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
@@ -15,12 +15,14 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#FCC841",
-		"#DFEFFC",
-		"#DEDE92",
-		"#DE4331",
-		"#FE9750",
-		"#FCC841"
+		"#DCBFEF",
+		"#75F086",
+		"#3678D6",
+		"#C0B364",
+		"#E605B9",
+		"#C97CF3",
+		"#DB35B8",
+		"#BA59C8"
 	],
 	"artImages": [
 		{
@@ -32,7 +34,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,30 +46,16 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Violet317",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "cxu53176@gmail.com",
 			"label": "",
 			"order": 1
-		},
-		{
-			"id": "button-1765552922506",
-			"type": "link",
-			"value": "",
-			"label": "",
-			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
@@ -75,6 +63,6 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 6,
 	"hatFlipped": false
 }
