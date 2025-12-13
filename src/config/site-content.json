@@ -48,7 +48,7 @@
 			"type": "github",
 			"value": "https://github.com/Violet317",
 			"label": "Github",
-			"order": 2
+			"order": 1
 		},
 		{
 			"id": "email",
@@ -56,6 +56,13 @@
 			"value": "cxu53176@gmail.com",
 			"label": "",
 			"order": 2
+		},
+		{
+			"id": "button-1765631357329",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/482048000396057",
+			"label": "",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
